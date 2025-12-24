@@ -1,4 +1,4 @@
-## SciSciNet Dartmouth Agent Frontend
+# SciSciNet Dartmouth Agent Frontend
 
 This repository contains the frontend for Project 2, a chat-driven dashboard for exploring Dartmouth-related publication statistics derived from SciSciNet.
 
